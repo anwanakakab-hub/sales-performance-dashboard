@@ -1,0 +1,201 @@
+order_id,order_date,region,channel,product_category,product,units_sold,unit_price,discount_pct,cogs,customer_segment,revenue,profit,month
+ORD1000,2023-01-01,West,Wholesale,Electronics,Product_0,60,94,9,55,Corporate,1964.6,754.6,2023-01
+ORD1001,2023-01-02,North,Wholesale,Home Appliances,Product_1,66,87,4,33,Small Business,1131.0,702.0,2023-01
+ORD1002,2023-01-03,East,Online,Sports,Product_2,120,466,3,300,Corporate,8854.0,3154.0,2023-01
+ORD1003,2023-01-04,West,Online,Sports,Product_3,87,375,0,301,Small Business,17456.25,2707.25,2023-01
+ORD1004,2023-01-05,East,Retail,Home Appliances,Product_4,105,10,0,218,Consumer,306.0,-7542.0,2023-01
+ORD1005,2023-01-06,West,Online,Furniture,Product_5,70,60,12,271,Corporate,720.0,-2532.0,2023-01
+ORD1006,2023-01-07,North,Wholesale,Furniture,Product_6,98,182,5,261,Small Business,7462.0,-3239.0,2023-01
+ORD1007,2023-01-08,East,Wholesale,Electronics,Product_7,98,214,6,306,Corporate,3252.8,-2561.2,2023-01
+ORD1008,2023-01-09,North,Online,Sports,Product_8,103,269,7,105,Small Business,2743.8,1483.8,2023-01
+ORD1009,2023-01-10,North,Wholesale,Sports,Product_9,57,455,7,350,Small Business,4095.0,945.0,2023-01
+ORD1010,2023-01-11,West,Wholesale,Clothing,Product_10,129,458,10,114,Consumer,2725.1,1927.1,2023-01
+ORD1011,2023-01-12,West,Online,Sports,Product_11,84,378,10,186,Corporate,10054.8,4846.8,2023-01
+ORD1012,2023-01-13,West,Online,Electronics,Product_12,108,497,14,317,Consumer,6262.2,1824.2,2023-01
+ORD1013,2023-01-14,South,Wholesale,Furniture,Product_13,121,297,1,5,Small Business,9207.0,9052.0,2023-01
+ORD1014,2023-01-15,South,Wholesale,Home Appliances,Product_14,61,43,7,323,Small Business,653.6,-5483.4,2023-01
+ORD1015,2023-01-16,East,Wholesale,Home Appliances,Product_15,123,357,1,59,Small Business,15940.05,13167.05,2023-01
+ORD1016,2023-01-17,South,Retail,Furniture,Product_16,95,104,3,375,Corporate,1414.4,-4585.6,2023-01
+ORD1017,2023-01-18,South,Retail,Furniture,Product_17,108,81,0,153,Consumer,384.75,-380.25,2023-01
+ORD1018,2023-01-19,East,Retail,Home Appliances,Product_18,77,48,12,313,Consumer,1680.0,-9275.0,2023-01
+ORD1019,2023-01-20,East,Online,Sports,Product_19,81,163,7,141,Small Business,1662.6,-29.4,2023-01
+ORD1020,2023-01-21,South,Retail,Clothing,Product_20,89,259,1,206,Small Business,5827.5,677.5,2023-01
+ORD1021,2023-01-22,East,Online,Furniture,Product_21,72,171,5,317,Corporate,3411.45,-3245.55,2023-01
+ORD1022,2023-01-23,North,Online,Home Appliances,Product_22,83,447,8,121,Consumer,16092.0,11736.0,2023-01
+ORD1023,2023-01-24,North,Retail,Home Appliances,Product_23,73,127,6,158,Consumer,2336.8,-1297.2,2023-01
+ORD1024,2023-01-25,South,Retail,Furniture,Product_24,122,268,3,295,Consumer,3644.8,-1075.2,2023-01
+ORD1025,2023-01-26,North,Retail,Electronics,Product_25,99,388,11,67,Consumer,14375.4,11762.4,2023-01
+ORD1026,2023-01-27,West,Wholesale,Furniture,Product_26,78,315,8,248,Corporate,13466.25,2306.25,2023-01
+ORD1027,2023-01-28,North,Retail,Furniture,Product_27,65,277,14,29,Consumer,10470.6,9252.6,2023-01
+ORD1028,2023-01-29,North,Wholesale,Sports,Product_28,63,458,13,94,Corporate,16075.8,12409.8,2023-01
+ORD1029,2023-01-30,South,Online,Home Appliances,Product_29,89,63,7,79,Corporate,705.6,-400.4,2023-01
+ORD1030,2023-01-31,East,Wholesale,Furniture,Product_30,87,245,7,298,Consumer,6076.0,-3162.0,2023-01
+ORD1031,2023-02-01,South,Retail,Furniture,Product_31,105,398,3,390,Small Business,1990.0,40.0,2023-02
+ORD1032,2023-02-02,West,Online,Home Appliances,Product_32,66,487,6,395,Corporate,17045.0,3220.0,2023-02
+ORD1033,2023-02-03,West,Online,Electronics,Product_33,127,231,0,214,Small Business,4250.4,-671.6,2023-02
+ORD1034,2023-02-04,East,Online,Home Appliances,Product_34,64,260,13,351,Consumer,6032.0,-4147.0,2023-02
+ORD1035,2023-02-05,East,Wholesale,Sports,Product_35,94,322,5,21,Small Business,11769.1,10866.1,2023-02
+ORD1036,2023-02-06,West,Retail,Sports,Product_36,62,410,6,132,Small Business,4059.0,2607.0,2023-02
+ORD1037,2023-02-07,West,Online,Home Appliances,Product_37,99,121,10,368,Small Business,2178.0,-4446.0,2023-02
+ORD1038,2023-02-08,East,Online,Clothing,Product_38,68,264,6,255,Small Business,11167.2,-817.8,2023-02
+ORD1039,2023-02-09,East,Online,Home Appliances,Product_39,69,312,8,183,Small Business,3369.6,1173.6,2023-02
+ORD1040,2023-02-10,South,Wholesale,Furniture,Product_40,129,416,5,186,Small Business,2995.2,1321.2,2023-02
+ORD1041,2023-02-11,West,Wholesale,Home Appliances,Product_41,56,216,7,156,Small Business,1836.0,276.0,2023-02
+ORD1042,2023-02-12,South,Retail,Sports,Product_42,102,238,13,29,Corporate,9948.4,8672.4,2023-02
+ORD1043,2023-02-13,East,Wholesale,Furniture,Product_43,62,350,13,184,Small Business,5057.5,1929.5,2023-02
+ORD1044,2023-02-14,North,Online,Furniture,Product_44,80,407,1,202,Small Business,13146.1,5470.1,2023-02
+ORD1045,2023-02-15,East,Retail,Sports,Product_45,91,75,11,348,Consumer,472.5,-1963.5,2023-02
+ORD1046,2023-02-16,North,Online,Sports,Product_46,64,84,6,165,Corporate,3284.4,-4305.6,2023-02
+ORD1047,2023-02-17,West,Online,Clothing,Product_47,92,444,6,181,Consumer,5772.0,3419.0,2023-02
+ORD1048,2023-02-18,East,Wholesale,Sports,Product_48,67,112,12,289,Corporate,4032.0,-7528.0,2023-02
+ORD1049,2023-02-19,East,Retail,Sports,Product_49,63,431,12,67,Small Business,18102.0,15288.0,2023-02
+ORD1050,2023-02-20,South,Wholesale,Sports,Product_50,115,201,1,154,Corporate,1718.55,332.55,2023-02
+ORD1051,2023-02-21,East,Wholesale,Home Appliances,Product_51,74,261,11,158,Corporate,6342.3,2076.3,2023-02
+ORD1052,2023-02-22,West,Retail,Furniture,Product_52,76,235,0,160,Consumer,446.5,126.5,2023-02
+ORD1053,2023-02-23,West,Online,Sports,Product_53,79,303,8,374,Consumer,1363.5,-506.5,2023-02
+ORD1054,2023-02-24,South,Online,Furniture,Product_54,123,315,10,53,Corporate,7308.0,5771.0,2023-02
+ORD1055,2023-02-25,East,Retail,Home Appliances,Product_55,110,107,8,341,Small Business,3365.15,-9251.85,2023-02
+ORD1056,2023-02-26,East,Online,Sports,Product_56,101,347,14,88,Consumer,10548.8,7204.8,2023-02
+ORD1057,2023-02-27,West,Retail,Electronics,Product_57,62,295,1,365,Corporate,5324.75,-1610.25,2023-02
+ORD1058,2023-02-28,East,Retail,Electronics,Product_58,85,344,12,181,Corporate,2339.2,891.2,2023-02
+ORD1059,2023-03-01,West,Wholesale,Sports,Product_59,104,356,14,152,Consumer,15379.2,8083.2,2023-03
+ORD1060,2023-03-02,North,Retail,Sports,Product_60,56,444,9,122,Corporate,16983.0,11493.0,2023-03
+ORD1061,2023-03-03,North,Wholesale,Sports,Product_61,132,456,0,346,Small Business,456.0,110.0,2023-03
+ORD1062,2023-03-04,South,Online,Home Appliances,Product_62,71,491,14,67,Small Business,9181.7,7707.7,2023-03
+ORD1063,2023-03-05,North,Online,Sports,Product_63,83,317,1,193,Corporate,5389.0,2108.0,2023-03
+ORD1064,2023-03-06,North,Online,Electronics,Product_64,122,258,6,364,Corporate,1535.1,-1012.9,2023-03
+ORD1065,2023-03-07,West,Online,Clothing,Product_65,64,175,10,53,Consumer,4375.0,3050.0,2023-03
+ORD1066,2023-03-08,North,Wholesale,Electronics,Product_66,62,490,2,331,Small Business,20947.5,6052.5,2023-03
+ORD1067,2023-03-09,North,Online,Clothing,Product_67,74,481,5,261,Corporate,1539.2,495.2,2023-03
+ORD1068,2023-03-10,West,Retail,Furniture,Product_68,115,344,14,228,Consumer,11145.6,2937.6,2023-03
+ORD1069,2023-03-11,East,Retail,Sports,Product_69,112,39,8,145,Corporate,198.9,-671.1,2023-03
+ORD1070,2023-03-12,South,Retail,Furniture,Product_70,82,256,1,219,Small Business,6348.8,-440.2,2023-03
+ORD1071,2023-03-13,South,Wholesale,Sports,Product_71,104,115,5,383,Small Business,1966.5,-5310.5,2023-03
+ORD1072,2023-03-14,North,Online,Furniture,Product_72,97,60,6,215,Corporate,2376.0,-7084.0,2023-03
+ORD1073,2023-03-15,South,Online,Home Appliances,Product_73,71,90,6,322,Small Business,3510.0,-9048.0,2023-03
+ORD1074,2023-03-16,South,Online,Clothing,Product_74,92,142,9,36,Consumer,3642.3,2670.3,2023-03
+ORD1075,2023-03-17,East,Wholesale,Electronics,Product_75,97,294,0,162,Corporate,2793.0,1173.0,2023-03
+ORD1076,2023-03-18,North,Retail,Electronics,Product_76,123,397,0,289,Small Business,8257.6,743.6,2023-03
+ORD1077,2023-03-19,East,Retail,Electronics,Product_77,59,147,7,309,Corporate,2653.35,-3217.65,2023-03
+ORD1078,2023-03-20,West,Online,Electronics,Product_78,128,193,11,290,Corporate,6397.95,-4912.05,2023-03
+ORD1079,2023-03-21,South,Retail,Sports,Product_79,96,410,14,148,Consumer,1168.5,724.5,2023-03
+ORD1080,2023-03-22,West,Retail,Electronics,Product_80,100,339,12,23,Small Business,12204.0,11169.0,2023-03
+ORD1081,2023-03-23,West,Wholesale,Sports,Product_81,127,282,13,22,Corporate,3482.7,3196.7,2023-03
+ORD1082,2023-03-24,West,Wholesale,Furniture,Product_82,103,349,8,261,Consumer,8306.2,998.2,2023-03
+ORD1083,2023-03-25,West,Wholesale,Electronics,Product_83,63,481,8,82,Corporate,9620.0,7980.0,2023-03
+ORD1084,2023-03-26,South,Wholesale,Electronics,Product_84,73,78,4,375,Corporate,1747.2,-8752.8,2023-03
+ORD1085,2023-03-27,South,Online,Clothing,Product_85,94,43,5,179,Consumer,344.0,-1088.0,2023-03
+ORD1086,2023-03-28,South,Wholesale,Home Appliances,Product_86,67,271,0,198,Consumer,11111.0,2993.0,2023-03
+ORD1087,2023-03-29,East,Retail,Sports,Product_87,117,62,7,117,Small Business,2418.0,-2145.0,2023-03
+ORD1088,2023-03-30,North,Online,Furniture,Product_88,117,459,7,118,Corporate,413.1,295.1,2023-03
+ORD1089,2023-03-31,West,Retail,Home Appliances,Product_89,67,214,12,226,Consumer,577.8,-100.2,2023-03
+ORD1090,2023-04-01,East,Retail,Home Appliances,Product_90,55,135,11,170,Consumer,1755.0,-455.0,2023-04
+ORD1091,2023-04-02,West,Retail,Home Appliances,Product_91,126,244,11,323,Corporate,5465.6,-3578.4,2023-04
+ORD1092,2023-04-03,West,Wholesale,Furniture,Product_92,101,52,13,136,Consumer,2165.8,-4498.2,2023-04
+ORD1093,2023-04-04,South,Wholesale,Clothing,Product_93,112,249,11,389,Corporate,5291.25,-4433.75,2023-04
+ORD1094,2023-04-05,South,Online,Sports,Product_94,94,468,1,268,Corporate,14671.8,5827.8,2023-04
+ORD1095,2023-04-06,West,Online,Sports,Product_95,106,380,1,59,Small Business,11552.0,9310.0,2023-04
+ORD1096,2023-04-07,East,Wholesale,Clothing,Product_96,84,120,14,363,Consumer,648.0,-1530.0,2023-04
+ORD1097,2023-04-08,East,Retail,Electronics,Product_97,92,258,4,135,Consumer,11352.0,5412.0,2023-04
+ORD1098,2023-04-09,South,Online,Home Appliances,Product_98,96,160,7,292,Small Business,6840.0,-6300.0,2023-04
+ORD1099,2023-04-10,West,Wholesale,Home Appliances,Product_99,87,192,3,270,Corporate,5222.4,-3417.6,2023-04
+ORD1100,2023-04-11,West,Wholesale,Sports,Product_100,128,345,7,370,Consumer,13972.5,-2677.5,2023-04
+ORD1101,2023-04-12,North,Wholesale,Clothing,Product_101,85,104,3,166,Corporate,4399.2,-3402.8,2023-04
+ORD1102,2023-04-13,North,Retail,Electronics,Product_102,75,468,8,384,Small Business,9828.0,1764.0,2023-04
+ORD1103,2023-04-14,East,Wholesale,Furniture,Product_103,67,383,6,91,Consumer,5208.8,3752.8,2023-04
+ORD1104,2023-04-15,North,Wholesale,Sports,Product_104,112,409,1,59,Small Business,6871.2,5632.2,2023-04
+ORD1105,2023-04-16,West,Wholesale,Clothing,Product_105,84,17,5,292,Corporate,168.3,-3043.7,2023-04
+ORD1106,2023-04-17,East,Wholesale,Sports,Product_106,55,397,6,182,Consumer,14689.0,7955.0,2023-04
+ORD1107,2023-04-18,East,Online,Home Appliances,Product_107,88,369,0,395,Corporate,10627.2,-3592.8,2023-04
+ORD1108,2023-04-19,West,Online,Furniture,Product_108,74,397,2,353,Corporate,11810.75,-544.25,2023-04
+ORD1109,2023-04-20,East,Wholesale,Furniture,Product_109,89,193,9,12,Corporate,3300.3,3072.3,2023-04
+ORD1110,2023-04-21,West,Retail,Electronics,Product_110,78,290,5,325,Consumer,4640.0,-1860.0,2023-04
+ORD1111,2023-04-22,West,Online,Furniture,Product_111,126,204,7,317,Consumer,2937.6,-2768.4,2023-04
+ORD1112,2023-04-23,East,Wholesale,Clothing,Product_112,114,361,11,251,Corporate,13573.6,1776.6,2023-04
+ORD1113,2023-04-24,North,Online,Electronics,Product_113,98,204,13,327,Consumer,7527.6,-5879.4,2023-04
+ORD1114,2023-04-25,North,Online,Sports,Product_114,116,164,4,259,Consumer,7232.4,-5458.6,2023-04
+ORD1115,2023-04-26,South,Retail,Home Appliances,Product_115,94,102,14,332,Small Business,1356.6,-3291.4,2023-04
+ORD1116,2023-04-27,East,Wholesale,Furniture,Product_116,91,169,10,58,Small Business,2154.75,1284.75,2023-04
+ORD1117,2023-04-28,North,Wholesale,Sports,Product_117,120,443,12,253,Small Business,13733.0,5890.0,2023-04
+ORD1118,2023-04-29,West,Retail,Electronics,Product_118,115,70,1,243,Consumer,56.0,-187.0,2023-04
+ORD1119,2023-04-30,East,Retail,Sports,Product_119,121,131,13,233,Small Business,373.35,-325.65,2023-04
+ORD1120,2023-05-01,South,Wholesale,Electronics,Product_120,110,60,0,71,Corporate,960.0,-176.0,2023-05
+ORD1121,2023-05-02,West,Wholesale,Sports,Product_121,70,412,14,55,Small Business,9002.2,7737.2,2023-05
+ORD1122,2023-05-03,South,Retail,Electronics,Product_122,126,286,4,101,Corporate,2831.4,1720.4,2023-05
+ORD1123,2023-05-04,East,Online,Electronics,Product_123,126,14,0,96,Consumer,134.4,-1017.6,2023-05
+ORD1124,2023-05-05,South,Online,Sports,Product_124,123,475,7,268,Small Business,4750.0,2070.0,2023-05
+ORD1125,2023-05-06,North,Retail,Electronics,Product_125,128,101,4,295,Small Business,3232.0,-6208.0,2023-05
+ORD1126,2023-05-07,North,Online,Furniture,Product_126,72,179,13,100,Small Business,2864.0,1264.0,2023-05
+ORD1127,2023-05-08,West,Retail,Furniture,Product_127,61,326,14,92,Small Business,2608.0,1872.0,2023-05
+ORD1128,2023-05-09,South,Online,Furniture,Product_128,62,31,10,82,Small Business,1178.0,-1938.0,2023-05
+ORD1129,2023-05-10,West,Online,Furniture,Product_129,103,414,13,292,Small Business,4719.6,1215.6,2023-05
+ORD1130,2023-05-11,North,Wholesale,Home Appliances,Product_130,71,335,11,124,Small Business,6432.0,3456.0,2023-05
+ORD1131,2023-05-12,South,Wholesale,Clothing,Product_131,120,10,14,306,Small Business,252.0,-8316.0,2023-05
+ORD1132,2023-05-13,South,Online,Electronics,Product_132,102,142,4,169,Consumer,1022.4,-329.6,2023-05
+ORD1133,2023-05-14,North,Online,Clothing,Product_133,55,242,6,186,Consumer,6098.4,890.4,2023-05
+ORD1134,2023-05-15,West,Wholesale,Furniture,Product_134,57,21,5,227,Consumer,680.4,-7491.6,2023-05
+ORD1135,2023-05-16,South,Wholesale,Electronics,Product_135,99,355,4,315,Consumer,8768.5,578.5,2023-05
+ORD1136,2023-05-17,South,Wholesale,Home Appliances,Product_136,87,55,3,11,Consumer,374.0,286.0,2023-05
+ORD1137,2023-05-18,North,Retail,Electronics,Product_137,117,43,9,334,Consumer,963.2,-8388.8,2023-05
+ORD1138,2023-05-19,West,Online,Home Appliances,Product_138,87,442,1,267,Consumer,12376.0,4900.0,2023-05
+ORD1139,2023-05-20,East,Wholesale,Furniture,Product_139,81,87,3,165,Corporate,2736.15,-3368.85,2023-05
+ORD1140,2023-05-21,West,Online,Electronics,Product_140,74,227,3,155,Corporate,8376.3,2021.3,2023-05
+ORD1141,2023-05-22,South,Retail,Home Appliances,Product_141,106,310,6,89,Consumer,9486.0,6282.0,2023-05
+ORD1142,2023-05-23,East,Retail,Home Appliances,Product_142,99,420,1,151,Small Business,9072.0,4995.0,2023-05
+ORD1143,2023-05-24,West,Wholesale,Furniture,Product_143,114,82,8,116,Consumer,1394.0,-578.0,2023-05
+ORD1144,2023-05-25,West,Retail,Clothing,Product_144,80,291,3,385,Consumer,2619.0,-846.0,2023-05
+ORD1145,2023-05-26,South,Online,Sports,Product_145,115,258,3,40,Consumer,6811.2,5491.2,2023-05
+ORD1146,2023-05-27,East,Wholesale,Clothing,Product_146,94,56,3,289,Corporate,896.0,-4884.0,2023-05
+ORD1147,2023-05-28,East,Online,Furniture,Product_147,54,130,13,192,Small Business,1521.0,-975.0,2023-05
+ORD1148,2023-05-29,East,Online,Furniture,Product_148,67,223,9,86,Small Business,6244.0,3836.0,2023-05
+ORD1149,2023-05-30,East,Retail,Furniture,Product_149,124,248,11,6,Small Business,10118.4,9830.4,2023-05
+ORD1150,2023-05-31,North,Retail,Furniture,Product_150,99,65,12,389,Small Business,1790.75,-9490.25,2023-05
+ORD1151,2023-06-01,North,Retail,Electronics,Product_151,81,359,5,307,Consumer,4433.65,442.65,2023-06
+ORD1152,2023-06-02,North,Retail,Electronics,Product_152,124,116,14,201,Small Business,4268.8,-4977.2,2023-06
+ORD1153,2023-06-03,East,Retail,Clothing,Product_153,53,328,11,15,Consumer,10332.0,9807.0,2023-06
+ORD1154,2023-06-04,East,Wholesale,Furniture,Product_154,106,57,13,238,Small Business,324.9,-1103.1,2023-06
+ORD1155,2023-06-05,North,Online,Electronics,Product_155,76,70,6,390,Corporate,1260.0,-5760.0,2023-06
+ORD1156,2023-06-06,East,Online,Electronics,Product_156,77,346,9,199,Consumer,1384.0,389.0,2023-06
+ORD1157,2023-06-07,North,Online,Furniture,Product_157,87,35,2,123,Consumer,1398.25,-4382.75,2023-06
+ORD1158,2023-06-08,West,Online,Clothing,Product_158,59,301,9,24,Small Business,6020.0,5420.0,2023-06
+ORD1159,2023-06-09,North,Retail,Furniture,Product_159,77,266,8,265,Corporate,452.2,-77.8,2023-06
+ORD1160,2023-06-10,North,Online,Clothing,Product_160,58,17,6,297,Corporate,136.0,-2834.0,2023-06
+ORD1161,2023-06-11,South,Wholesale,Clothing,Product_161,118,122,8,260,Corporate,2928.0,-4872.0,2023-06
+ORD1162,2023-06-12,South,Wholesale,Furniture,Product_162,71,364,11,226,Corporate,13104.0,2934.0,2023-06
+ORD1163,2023-06-13,North,Online,Electronics,Product_163,81,262,5,397,Consumer,1113.5,-871.5,2023-06
+ORD1164,2023-06-14,East,Online,Furniture,Product_164,116,189,7,230,Small Business,5301.45,-2288.55,2023-06
+ORD1165,2023-06-15,South,Wholesale,Furniture,Product_165,92,216,13,57,Small Business,172.8,115.8,2023-06
+ORD1166,2023-06-16,East,Wholesale,Clothing,Product_166,75,312,6,359,Corporate,5335.2,-1126.8,2023-06
+ORD1167,2023-06-17,East,Retail,Furniture,Product_167,89,136,2,346,Corporate,3916.8,-7155.2,2023-06
+ORD1168,2023-06-18,South,Wholesale,Home Appliances,Product_168,62,65,9,368,Small Business,2749.5,-14546.5,2023-06
+ORD1169,2023-06-19,West,Retail,Furniture,Product_169,123,223,2,284,Corporate,9834.3,-4081.7,2023-06
+ORD1170,2023-06-20,South,Retail,Furniture,Product_170,85,23,9,85,Small Business,215.05,-719.95,2023-06
+ORD1171,2023-06-21,West,Retail,Electronics,Product_171,102,483,2,206,Consumer,8621.55,4295.55,2023-06
+ORD1172,2023-06-22,West,Retail,Sports,Product_172,75,37,6,162,Small Business,913.9,-3298.1,2023-06
+ORD1173,2023-06-23,East,Retail,Clothing,Product_173,112,480,12,124,Corporate,10800.0,7700.0,2023-06
+ORD1174,2023-06-24,North,Online,Sports,Product_174,97,87,7,63,Consumer,1722.6,336.6,2023-06
+ORD1175,2023-06-25,East,Wholesale,Electronics,Product_175,57,225,10,219,Corporate,4860.0,-1053.0,2023-06
+ORD1176,2023-06-26,South,Retail,Clothing,Product_176,61,395,6,132,Consumer,16451.75,9983.75,2023-06
+ORD1177,2023-06-27,North,Wholesale,Electronics,Product_177,73,374,9,228,Consumer,4375.8,1411.8,2023-06
+ORD1178,2023-06-28,East,Wholesale,Home Appliances,Product_178,112,163,7,213,Small Business,5110.05,-1918.95,2023-06
+ORD1179,2023-06-29,South,Retail,Clothing,Product_179,74,23,14,374,Consumer,742.9,-11973.1,2023-06
+ORD1180,2023-06-30,North,Online,Electronics,Product_180,129,196,4,119,Corporate,7232.4,2353.4,2023-06
+ORD1181,2023-07-01,East,Retail,Sports,Product_181,91,321,11,213,Corporate,9549.75,2094.75,2023-07
+ORD1182,2023-07-02,South,Online,Furniture,Product_182,95,380,13,18,Consumer,361.0,343.0,2023-07
+ORD1183,2023-07-03,West,Wholesale,Sports,Product_183,94,16,4,13,Corporate,268.8,-4.2,2023-07
+ORD1184,2023-07-04,West,Online,Clothing,Product_184,80,12,7,44,Corporate,547.2,-1564.8,2023-07
+ORD1185,2023-07-05,South,Online,Furniture,Product_185,75,120,8,241,Consumer,720.0,-726.0,2023-07
+ORD1186,2023-07-06,East,Online,Home Appliances,Product_186,101,416,3,285,Consumer,11648.0,3668.0,2023-07
+ORD1187,2023-07-07,West,Wholesale,Electronics,Product_187,102,247,6,363,Small Business,3569.15,-2601.85,2023-07
+ORD1188,2023-07-08,North,Wholesale,Home Appliances,Product_188,110,372,13,205,Corporate,1674.0,649.0,2023-07
+ORD1189,2023-07-09,West,Online,Clothing,Product_189,81,248,10,250,Consumer,6534.8,-1215.2,2023-07
+ORD1190,2023-07-10,North,Online,Sports,Product_190,102,283,0,282,Corporate,1202.75,-207.25,2023-07
+ORD1191,2023-07-11,East,Retail,Home Appliances,Product_191,93,303,14,239,Small Business,9786.9,704.9,2023-07
+ORD1192,2023-07-12,West,Online,Electronics,Product_192,95,236,13,8,Small Business,601.8,577.8,2023-07
+ORD1193,2023-07-13,North,Retail,Home Appliances,Product_193,102,380,1,158,Corporate,6992.0,3358.0,2023-07
+ORD1194,2023-07-14,South,Online,Home Appliances,Product_194,74,24,5,33,Corporate,710.4,-510.6,2023-07
+ORD1195,2023-07-15,South,Retail,Home Appliances,Product_195,53,201,6,113,Consumer,7065.15,2884.15,2023-07
+ORD1196,2023-07-16,North,Wholesale,Electronics,Product_196,122,482,10,102,Corporate,4820.0,3800.0,2023-07
+ORD1197,2023-07-17,West,Online,Sports,Product_197,119,128,3,219,Consumer,1088.0,-1102.0,2023-07
+ORD1198,2023-07-18,East,Online,Home Appliances,Product_198,110,494,7,297,Consumer,8916.7,3273.7,2023-07
+ORD1199,2023-07-19,West,Online,Clothing,Product_199,58,37,0,79,Consumer,629.0,-714.0,2023-07
