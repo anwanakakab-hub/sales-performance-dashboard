@@ -27,6 +27,7 @@ It asks a more important management question:
 ## Dashboard Preview
 
 ![Sales Performance Dashboard](sales_performance_dashboard.png)
+<img width="2018" height="2048" alt="sales_performance_dashboard" src="https://github.com/user-attachments/assets/0a849690-84ee-4112-89f1-dcb60a46ec71" />
 
 ---
 
